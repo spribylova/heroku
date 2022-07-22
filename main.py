@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ArqVQswNsWQcNPcHuNODBMumd_fzpvWi
 """
 
-!pip install pandas
-!pip install jupyter_dash
-!pip install dash
+
 import plotly.express as px
 from jupyter_dash import JupyterDash
 import dash_core_components as dcc
